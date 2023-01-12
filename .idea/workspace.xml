@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e9d9bba-b92a-42ab-9591-fcaa57da1c09" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -137,7 +136,7 @@
       <workItem from="1673354066548" duration="7973000" />
       <workItem from="1673402706075" duration="3557000" />
       <workItem from="1673408683781" duration="19012000" />
-      <workItem from="1673515713516" duration="111000" />
+      <workItem from="1673515713516" duration="1398000" />
     </task>
     <servers />
   </component>

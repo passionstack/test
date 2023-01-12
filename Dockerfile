@@ -1,4 +1,4 @@
-FROM jdk:8
+FROM openjdk:8
  
 VOLUME /tmp
  
