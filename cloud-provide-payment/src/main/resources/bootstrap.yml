@@ -1,20 +1,20 @@
-#server:
-#  port: 8001 #服务端口
-spring:
-  application:
-    name: cloud-provide-payment  #服务名
-  cloud:
-    nacos:
-      config:
-        server-addr: 127.0.0.1:8848
-        namespace: 818895d6-a0fa-42ec-947b-63789b172f07
-        # 配置中心配置文件的后缀名格式
-        file-extension: yaml
-        # 是否动态刷新，默认为false
-        refresh: true
-      discovery:
-        server-addr: 127.0.0.1:8848
-        namespace: 818895d6-a0fa-42ec-947b-63789b172f07
-  # 当前环境对应的profile
-  profiles:
-    active: test
+##server:
+##  port: 8001 #服务端口
+#spring:
+#  application:
+#    name: cloud-provide-payment  #服务名
+#  cloud:
+#    nacos:
+#      config:
+#        server-addr: 127.0.0.1:8848
+#        namespace: 818895d6-a0fa-42ec-947b-63789b172f07
+#        # 配置中心配置文件的后缀名格式
+#        file-extension: yaml
+#        # 是否动态刷新，默认为false
+#        refresh: true
+#      discovery:
+#        server-addr: 127.0.0.1:8848
+#        namespace: 818895d6-a0fa-42ec-947b-63789b172f07
+#  # 当前环境对应的profile
+#  profiles:
+#    active: test

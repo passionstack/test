@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e9d9bba-b92a-42ab-9591-fcaa57da1c09" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/test/cloud/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/test/cloud/pojo/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/test/cloud/pojo/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/OrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/test/cloud/PaymentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/test/cloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/test/cloud/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/test/cloud/service/Impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/java/com/test/cloud/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/dao/PaymentDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provide-payment/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +61,7 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "show.run.dashboard.notification": "false",
-    "spring.configuration.checksum": "c567cda523489bb196bf8681c89d6655"
+    "spring.configuration.checksum": "3b3713f23493a440f216148d11d6fa3d"
   }
 }]]></component>
   <component name="RunManager" selected="Spring Boot.PaymentApplication">
@@ -157,7 +136,8 @@
       <updated>1673354064000</updated>
       <workItem from="1673354066548" duration="7973000" />
       <workItem from="1673402706075" duration="3557000" />
-      <workItem from="1673408683781" duration="18413000" />
+      <workItem from="1673408683781" duration="19012000" />
+      <workItem from="1673515713516" duration="111000" />
     </task>
     <servers />
   </component>
