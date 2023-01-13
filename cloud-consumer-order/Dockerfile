@@ -2,7 +2,7 @@ FROM openjdk:8
  
 VOLUME /cloud-consumer-order
  
-ADD target/cloud-provide-payment-1.0-SNAPSHOT.jar app.jar
+ADD target/cloud-consumer-order-1.0-SNAPSHOT.jar app.jar
  
 EXPOSE 8002
  
