@@ -17,6 +17,7 @@ public class OrderController {
 //    public static final  String PAYMENT_URL = "http://cloud-provide-payment";
     public static final  String PAYMENT_URL = "http://49.235.115.50:8001";
 //    public static final  String PAYMENT_URL = "http://localhost:8001";
+    
 
     @Autowired
     private RestTemplate restTemplate;
