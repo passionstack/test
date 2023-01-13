@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e9d9bba-b92a-42ab-9591-fcaa57da1c09" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/java/com/test/cloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,7 @@
       <workItem from="1673402706075" duration="3557000" />
       <workItem from="1673408683781" duration="19012000" />
       <workItem from="1673515713516" duration="4080000" />
-      <workItem from="1673591098378" duration="770000" />
+      <workItem from="1673591098378" duration="2050000" />
     </task>
     <servers />
   </component>
